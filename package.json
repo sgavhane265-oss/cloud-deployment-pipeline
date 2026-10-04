@@ -1,0 +1,12 @@
+{
+  "name": "cloud-deployment-pipeline",
+  "version": "1.0.0",
+  "description": "A containerized application for learning CI/CD and cloud deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
